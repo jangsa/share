@@ -67,7 +67,7 @@ It requires to cover depreciation and insurance fee in case of accidents.
 
 If it gets well designed, it's possible to copy or better the conventional models like Reverse Mortgage, Leaseback model within DeFi.
 
-![big picture]( "big picture")
+![big picture](https://github.com/jangsa/share/blob/master/SecretNFTs/functional_asset_backed_snfts.png "big picture")
 
 That's abstract of my idea.  
 I'm at the very entrance point of Secret NFTs world, so still not sure about feasibility.  
