@@ -4,9 +4,8 @@ Hopefully it's somehow interesting to you!
 
 ## Burn-then-tokenize problem
 Banksy has burnt his work before tokenizing it.  
-Ownership of drawings may be valuable even after they are burnt (a little enigmatic to me though), but burning houses, vehicles, ships, planes ... is nothing but irrational behavior.  
+Ownership of drawings might be valuable even after they are burnt (a little enigmatic to me though), but burning houses, vehicles, ships, planes ... is nothing but irrational behavior.  
 Since houses, vehicles, ships, planes, ... are valuable only if they are existing and functioning.  
-So the problem is "how to keep asset's availability while it is secured".
 
 ## Tokenizing by on-demand sealing
 Conventional tokenization methods involve unavailability.  
@@ -26,7 +25,8 @@ For example:
 1. Effect of cars can be disabled by smart locks (door locks & engine suspension).
 1. Effect of solar panels can be taken by control over power transmission.
 
-There is conventional (a bit new) auto loan scheme in which smart locks (virtual keys) play a role.
+The problem is "how to keep asset's availability while it is secured".  
+There is conventional (still a little new) auto loan scheme where smart locks (virtual keys) play a role.
 
 It works like below:
 ### Problem
@@ -42,15 +42,15 @@ Virtual keys can enforce Asset-Back in a better way.
 ## Real Asset Backed Secret NFTs
 I expect Secret NFTs can cover wider assets if "sealing status" can be embedded in Secret NFTs' contract as well as ownership.
 
-This scheme requires 3 entities:
+This scheme includes 3 entities:
 1. Owner - a role who enjoys availability of the property and liquidity of NFTs.
 1. Observer - the authorized role who can seal the property in case of misbehavior or for securing loans. Automated or managed by multiple parties through threshold signature; Kleros project can be a reference.
-1. Deployer - A trusted party who supplies sealing tools to the property.
+1. Deployer - A trusted party who supplies sealing tools to the owner's property.
 
 In this case, Secret NFTs are required to get extended other than ownership:
 * "Sealing status" of the property
 * Observer's address which is authorized to execute a function to switch "sealing status"
-Depending on the type of asset, additional field may be required.
+Depending on the type of asset, additional fields might be required.
 
 "Sealing status" is a financial situation of a person or company, plus the properties are existing in real world ... well, if "sealing status" is public, the asset or belongings can be exposed to fear of theft/intrusion.  
 Hence privacy matters.  
@@ -60,7 +60,7 @@ I bet Secret NFTs are really suitable to this scheme.
 The value of functional asset backed NFTs (fabNFTs) has volatility as well as BTC, ETH and SCRT.  
 The gap is, however, that the value of fabNFTs decreases as time goes by (depreciation) or in case of boken.
 
-That being said, the most difficult challenge is value estimation.  
+That being said, the most difficult challenge is value estimation of fabNFTs.  
 It requires to cover depreciation and insurance fee in case of accidents.
 
 If it gets well designed, it's possible to copy or better the conventional models like Reverse Mortgage, Leaseback model within DeFi.
@@ -68,6 +68,6 @@ If it gets well designed, it's possible to copy or better the conventional model
 
 That's abstract of my idea.  
 I'm at the very entrance point of Secret NFTs world, so still not sure about feasibility.  
-If there are more technical challenges, please advise.
+If there are contradictions and technical challenges, please advise kindly.
 
 Thank you and sorry for poor English.
