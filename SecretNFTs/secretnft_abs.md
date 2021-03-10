@@ -41,7 +41,7 @@ If repayment is not done accordingly, the creditor can suspend the functionality
 That means the borrower (almost) can't run away with it - the creditor can seize the property.  
 Virtual keys can enforce Asset-Back in a better way.
 
-## Real Asset Backed Secret NFTs
+## Functional Asset Backed Secret NFTs
 I expect Secret NFTs can cover wider assets if "sealing status" can be embedded in Secret NFTs' contract as well as ownership.
 
 This scheme includes 3 entities:
@@ -59,14 +59,15 @@ Hence privacy matters.
 I bet Secret NFTs are really suitable to this scheme.
 
 ## Further discussion
-The value of functional asset backed NFTs (fabNFTs) has volatility as well as BTC, ETH and SCRT.  
-The gap is, however, that the value of fabNFTs decreases as time goes by (depreciation) or in case of boken.
+The value of functional asset backed NFTs has volatility as well as BTC, ETH and SCRT.  
+The gap is, however, that the value of functional asset backed NFTs decreases as time goes by (depreciation) or in case of boken.
 
-That being said, the most difficult challenge is value estimation of fabNFTs.  
+That being said, the most difficult challenge is value estimation of functional asset backed NFTs.  
 It requires to cover depreciation and insurance fee in case of accidents.
 
 If it gets well designed, it's possible to copy or better the conventional models like Reverse Mortgage, Leaseback model within DeFi.
 
+![big picture]( "big picture")
 
 That's abstract of my idea.  
 I'm at the very entrance point of Secret NFTs world, so still not sure about feasibility.  
