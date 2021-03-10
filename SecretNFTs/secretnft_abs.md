@@ -4,7 +4,9 @@ Hopefully it's somehow interesting to you!
 
 ## Burn-then-tokenize problem
 Banksy has burnt his work before tokenizing it.  
-Ownership of drawings might be valuable even after they are burnt (a little enigmatic to me though), but burning houses, vehicles, ships, planes ... is nothing but irrational behavior.  
+Ownership of drawing might be valuable even after drawing itself is burnt (a little enigmatic to me though).
+
+On the other hand, burning houses, vehicles, ships, planes ... is nothing but irrational behavior.  
 Since houses, vehicles, ships, planes, ... are valuable only if they are existing and functioning.  
 
 ## Tokenizing by on-demand sealing
