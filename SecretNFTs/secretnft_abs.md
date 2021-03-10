@@ -1,4 +1,4 @@
-# Secret NFTs backed by functional assets
+# Secret NFTs backed by functional real assets
 Love to have a talk about use cases of Secret NFTs.  
 Hopefully it's somehow interesting to you!
 
@@ -17,7 +17,7 @@ For example:
 Both nullify the propertie's effect forever or tentatively in order that the value of token is secured.
 
 What I'm suggesting here is on-demand sealing.  
-Functional assets should be available unless it is sealed.
+Functional real assets should be available unless it is sealed.
 
 ![seal's picture](https://www.ecomare.nl/wp-content/uploads/2017/04/ill-gewone-zeehond-2010-10sw.jpg "seal")
 
@@ -59,10 +59,10 @@ Hence privacy matters.
 I bet Secret NFTs are really suitable to this scheme.
 
 ## Further discussion
-The value of functional asset backed NFTs has volatility as well as BTC, ETH and SCRT.  
-The gap is, however, that the value of functional asset backed NFTs decreases as time goes by (depreciation) or in case of boken.
+The value of functional real asset backed NFTs has volatility as well as BTC, ETH and SCRT.  
+The gap is, however, that the value of functional real asset backed NFTs decreases as time goes by (depreciation) or in case of boken.
 
-That being said, the most difficult challenge is value estimation of functional asset backed NFTs.  
+That being said, the most difficult challenge is value estimation of functional real asset backed NFTs.  
 It requires to cover depreciation and insurance fee in case of accidents.
 
 If it gets well designed, it's possible to copy or better the conventional models like Reverse Mortgage, Leaseback model within DeFi.
