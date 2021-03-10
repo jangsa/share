@@ -13,7 +13,8 @@ Since houses, vehicles, ships, planes, ... are valuable only if they are existin
 Conventional tokenization methods involve unavailability.  
 For example:
 * Burning drawing for drawing NFT is kinda permanent sealing; Assets can't be recovered.
-* Storing USD for USD token is tentative sealing; Amounts can be redeemed later.  
+* Storing USD for USD token is tentative sealing; Amounts can be redeemed later.
+
 Both nullify the propertie's effect forever or tentatively in order that the value of token is secured.
 
 What I'm suggesting here is on-demand sealing.  
