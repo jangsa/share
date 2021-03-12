@@ -9,7 +9,7 @@ Ownership of drawing might be valuable even after drawing itself is burnt (a lit
 On the other hand, burning houses, vehicles, ships, planes ... is nothing but irrational behavior.  
 Since houses, vehicles, ships, planes, ... are valuable only if they are existing and functioning.  
 
-## Tokenizing by on-demand sealing
+## Tokenizing by lazy sealing
 Conventional tokenization methods involve unavailability.  
 For example:
 * Burning drawing for drawing NFT is kinda permanent sealing; Assets can't be recovered.
@@ -17,13 +17,13 @@ For example:
 
 Both nullify the propertie's effect forever or tentatively in order that the value of token is secured.
 
-What I'm suggesting here is on-demand sealing.  
+What I'm suggesting here is lazy sealing.  
 Functional real assets should be available unless it is sealed.
 
 ![seal's picture](https://www.ecomare.nl/wp-content/uploads/2017/04/ill-gewone-zeehond-2010-10sw.jpg "seal")
 
 ## How to seal?
-The way of sealing actually depends on the type of target property.  
+Ways of sealing actually depend on the type of target property.  
 For example:
 1. Effect of cars can be disabled by smart locks (door locks & engine suspension).
 1. Effect of solar panels can be taken by control over power transmission.
@@ -41,6 +41,9 @@ Authorize creditor's virtual key to lock car's door & engine.
 If repayment is not done accordingly, the creditor can suspend the functionality of the car.  
 That means the borrower (almost) can't run away with it - the creditor can seize the property.  
 Virtual keys can enforce Asset-Back in a better way.
+
+Lazy sealing is more general concept by which availability (sealing status) is revoked only when a problem is found.
+Physical tool can be a smart lock or other devices.
 
 ## Functional Asset Backed Secret NFTs
 I expect Secret NFTs can cover wider assets if "sealing status" can be embedded in Secret NFTs' contract as well as ownership.
