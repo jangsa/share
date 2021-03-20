@@ -20,7 +20,7 @@ Both nullify the propertie's effect forever or tentatively in order that the val
 What I'm suggesting here is lazy sealing.  
 Functional real assets should be available unless it is sealed.
 
-![ways of tokenization](https://github.com/jangsa/share/blob/master/SecretNFTs/LazySealing/img/comparison.png "ways of tokenization")
+![ways of tokenization](https://github.com/jangsa/share/blob/master/SecretNFTs/LazySealing/img/comparison_w.png "ways of tokenization")
 
 ## How to seal?
 Ways of sealing actually depend on the type of target property.  
@@ -73,7 +73,7 @@ It requires to cover depreciation and insurance fee in case of accidents.
 
 If it gets well designed, it's possible to copy or better the conventional models like Reverse Mortgage, Leaseback model within DeFi.
 
-![big picture](https://github.com/jangsa/share/blob/master/SecretNFTs/LazySealing/img/overall.png "big picture")
+![big picture](https://github.com/jangsa/share/blob/master/SecretNFTs/LazySealing/img/overall_w.png "big picture")
 
 That's abstract of my idea.  
 I'm at the very entrance point of Secret NFTs world, so still not sure about feasibility.  
