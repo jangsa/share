@@ -20,7 +20,7 @@ Both nullify the propertie's effect forever or tentatively in order that the val
 What I'm suggesting here is lazy sealing.  
 Functional real assets should be available unless it is sealed.
 
-![seal's picture](https://www.ecomare.nl/wp-content/uploads/2017/04/ill-gewone-zeehond-2010-10sw.jpg "seal")
+![ways of tokenization](https://github.com/jangsa/share/blob/master/SecretNFTs/LazySealing/img/comparison.png "ways of tokenization")
 
 ## How to seal?
 Ways of sealing actually depend on the type of target property.  
@@ -44,6 +44,8 @@ Virtual keys can enforce Asset-Back in a better way.
 
 Lazy sealing is more general concept by which availability (sealing status) is revoked only when a problem is found.
 Physical tool can be a smart lock or other devices.
+
+![seal's picture](https://www.ecomare.nl/wp-content/uploads/2017/04/ill-gewone-zeehond-2010-10sw.jpg "seal")
 
 ## Functional Asset Backed Secret NFTs
 I expect Secret NFTs can cover wider assets if "sealing status" can be embedded in Secret NFTs' contract as well as ownership.
@@ -71,7 +73,7 @@ It requires to cover depreciation and insurance fee in case of accidents.
 
 If it gets well designed, it's possible to copy or better the conventional models like Reverse Mortgage, Leaseback model within DeFi.
 
-![big picture](https://github.com/jangsa/share/blob/master/SecretNFTs/functional_asset_backed_snfts.png "big picture")
+![big picture](https://github.com/jangsa/share/blob/master/SecretNFTs/LazySealing/img/overall.png "big picture")
 
 That's abstract of my idea.  
 I'm at the very entrance point of Secret NFTs world, so still not sure about feasibility.  
