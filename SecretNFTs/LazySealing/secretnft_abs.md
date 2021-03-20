@@ -21,7 +21,8 @@ Both nullify propertie's effect tentatively / forever in order that the value of
 All of the conventional methods involve unavailability.  
 
 That's where Lazy Sealing plays a role.  
-Functional real assets should not be unavailable unless it needs to be sealed.
+Its concept is really simple.
+"Functional real assets should not be unavailable unless it needs to be unavailable (sealed)."
 
 ![ways of tokenization](https://github.com/jangsa/share/blob/master/SecretNFTs/LazySealing/img/comparison_w.png "ways of tokenization")
 
@@ -75,6 +76,10 @@ If "sealing status" is public:
 1. The asset or belongings can be exposed to fear of theft / intrusion.  
 Hence privacy matters.  
 I bet Secret NFTs are really suitable infrastructure for this scheme.
+
+## How it works
+
+TODO  
 
 ## Further discussion
 The value of functional real asset backed NFTs has volatility as well as BTC, ETH and SCRT.  
