@@ -58,12 +58,12 @@ This scheme involves 3 roles:
 1. Observer - the authorized role who can seal the property in case of misbehavior or for securing loans. Automated or managed by multiple parties through threshold signature; Kleros project can be a reference.
 1. Deployer - A trusted party who supplies sealing tools to the owner's property.
 
-In this case, contract of NFTs is required to get extended other than ownership:
+Addtional information is required to be attached other than ownership:
 * "Sealing status" of the property
 * Observer's address is actually executor's address which is authorized to switch "sealing status" on / off
 Depending on the type of asset, additional fields might be required.  
 
-The trust of "Observers (executors)" is the boundary between digital world and physical world.  
+The trust of observer (executor) is the boundary between digital world and physical world.  
 I believe it is really difficult to remove this kind of trust to widespread practical usecases of NFTs.  
 
 ## How it works
