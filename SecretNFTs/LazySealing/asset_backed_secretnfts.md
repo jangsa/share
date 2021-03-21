@@ -90,16 +90,17 @@ This scheme can be applicable to other assets in a similar way.
 * Alice can suspend the power supplier of leased devices (really effective to leased items in smart home).
 
 ## Secret NFTs' advantage against normal NFTs
-Above mentioned scheme can be implemented in conventional NFTs.
-I expect, however, Secret NFTs can cover wider assets if "sealing status" can be embedded in Secret NFTs' contract.
+Above mentioned scheme can be implemented in conventional NFTs.  
+I expect, however, Secret NFTs can cover wider assets from the viewpoint of privacy in real world.
 
-Assets actually exists in real world. That means, if "sealing status" is public:
+Assets actually exists in real world.  
+That means, if status of NFT stays public:
 1. Financial condition of people or companies are always public (traceable)  
 1. The asset or belongings can be exposed to fear of theft / intrusion.  
 1. Anybody can trace the user history of the asset without encryption. What if this information is combined with external information (e.g. location history of cars)?
 Hence privacy matters.  
-Secret NFTs can keep the status encrypted on-chain and manage access control by viewing keys.
-That's the advantage against conventional (normal) NFTs.
+Secret NFTs can keep the status encrypted on-chain and manage access control by viewing keys.  
+That's Secret NFTs' advantage against conventional (normal) NFTs.  
 
 ## Further discussion
 The value of functional real asset backed NFTs has volatility as well as BTC, ETH and SCRT.  
