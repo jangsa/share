@@ -7,18 +7,18 @@ Ownership of drawing might be valuable even after the asset itself is burnt (a l
 Burning houses, vehicles, ships, planes ... is, however, nothing but irrational behavior.  
 Since houses, vehicles, ships, planes, ... are valuable only if they are existing and functioning.  
 
-So how can they be tokenized?
+So how can they be tokenized?  
 In other words, how can we keep consistency between "ownership in digital world" and "ownership in physical world" while assets keep existing and functioning?
 That's the problem.
 
 ## Tokenizing by "Lazy Sealing"
-Let's start with reviewing conventional tokenization methods.  
+Let's start with reviewing conventional ways of tokenization.  
 For example:
 * Storing USDs for USD tokens is "Tentative Sealing"; Amounts can be redeemed later.
 * Burning a drawing for its NFT is kinda "Permanent Sealing"; Assets can't be recovered.
 
-Both nullify propertie's effect tentatively / forever in order that the value of token is secured while the token exists.  
-All of the conventional methods involve unavailability.  
+Both nullify propertie's effect tentatively / permanently in order that the value of token is secured while the token exists and is liquidated.  
+These conventional methods involve unavailability.  
 
 That's where Lazy Sealing plays a role.  
 Its concept is really simple: "Functional real assets should not be unavailable unless it needs to be unavailable (sealed)."
@@ -59,12 +59,13 @@ This scheme involves 3 roles:
 1. Deployer - A trusted party who supplies sealing tools to the owner's property.
 
 Addtional information is required to be attached other than ownership:
-* "Sealing status" of the property
-* Observer's address is actually executor's address which is authorized to switch "sealing status" on / off
-Depending on the type of asset, additional fields might be required.  
+* "Sealing status (availability)" of the property
+* Observer's address (suspention executor's address ... could be multisig)
+Depending on the type of asset, additional fields could be needed.  
 
-The trust of observer (executor) is the boundary between digital world and physical world.  
-I believe it is really difficult to remove this kind of trust to widespread practical usecases of NFTs.  
+The trust of observer is actually the boundary between digital world and physical world.  
+It is really difficult to remove this kind of trust.
+Still if observer is trusted enough, the tokenized asset can get liquidity. I believe the asset-backed NFTs has potential to be the second stable coin.  
 
 ## How it works
 ![access control by NFT status](https://github.com/jangsa/share/blob/master/SecretNFTs/LazySealing/img/architecture_w.png "access control by NFT status")
@@ -111,7 +112,4 @@ If it gets well designed, it's possible to copy or better the conventional model
 
 ![big picture](https://github.com/jangsa/share/blob/master/SecretNFTs/LazySealing/img/overall_w.png "big picture")
 
-That's abstract of my idea.  
-I'm at the very entrance point of Secret NFTs world, so still not sure about feasibility.  
-If there are contradictions and technical challenges, please advise kindly.
 
