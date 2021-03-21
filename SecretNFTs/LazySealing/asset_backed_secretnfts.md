@@ -70,8 +70,7 @@ I believe it is really difficult to remove this kind of trust to widespread prac
 ## Secret NFTs keep privacy belonging to assets in real world
 I expect Secret NFTs can cover wider assets if "sealing status" can be embedded in Secret NFTs' contract as well as ownership.  
 
-Assets are existing in real world.
-If "sealing status" is public:
+Assets actually exists in real world. That means, if "sealing status" is public:
 1. Financial condition of people or companies are always public (traceable)  
 1. The asset or belongings can be exposed to fear of theft / intrusion.  
 Hence privacy matters.  
@@ -79,7 +78,6 @@ I bet Secret NFTs are really suitable infrastructure for this scheme.
 
 ## How it works
 
-TODO  
 
 ## Further discussion
 The value of functional real asset backed NFTs has volatility as well as BTC, ETH and SCRT.  
