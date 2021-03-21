@@ -98,6 +98,7 @@ That means, if status of NFT stays public:
 1. Financial condition of people or companies are always public (traceable)  
 1. The asset or belongings can be exposed to fear of theft / intrusion.  
 1. Anybody can trace the user history of the asset without encryption. What if this information is combined with external information (e.g. location history of cars)?
+
 Hence privacy matters.  
 Secret NFTs can keep the status encrypted on-chain and manage access control by viewing keys.  
 That's Secret NFTs' advantage against conventional (normal) NFTs.  
