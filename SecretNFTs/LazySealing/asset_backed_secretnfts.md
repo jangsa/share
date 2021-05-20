@@ -27,7 +27,7 @@ Its concept is really simple: "Functional real assets should not be unavailable 
 
 ## How to seal?
 The problem is "how to keep asset's availability while it is secured".  
-Answer actually depends on the type of target property.  
+Its answer depends on the type of target property.  
 For example:
 1. Effect of cars can be disabled by smart locks (door locks & engine suspension).
 1. Effect of solar panels can be taken by control over power transmission.
